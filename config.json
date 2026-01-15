@@ -1,1 +1,5 @@
-API_KEY=IHCTF{osint_complete}
+{
+    "app_name": "Simple Calculator",
+    "version": "1.0.0",
+    "author": "CTF Developer"
+}
